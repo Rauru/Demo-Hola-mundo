@@ -1,0 +1,5 @@
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\StringUtilities\bin\Debug\StringUtilities.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\StringUtilities\bin\Debug\StringUtilities.pdb
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\StringUtilities\obj\Debug\StringUtilties.csprojResolveAssemblyReference.cache
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\StringUtilities\obj\Debug\StringUtilities.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\StringUtilities\obj\Debug\StringUtilities.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Wave</id>
+    <version>1.0.0.0</version>
+    <title>JetBrains packages semantic root</title>
+    <authors>JetBrains</authors>
+    <owners>JetBrains</owners>
+    <projectUrl>http://www.jetbrains.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Empty package for JetBrains products semantic root.</description>
+    <summary>Empty package for JetBrains products semantic root.</summary>
+  </metadata>
+</package>

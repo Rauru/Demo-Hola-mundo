@@ -1,0 +1,10 @@
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\MyFirstTDD.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\MyFirstTDD.pdb
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\Machine.Specifications.Clr4.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\Machine.Specifications.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\Machine.Specifications.Should.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\obj\Debug\MyFirstTDD.csprojResolveAssemblyReference.cache
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\obj\Debug\MyFirstTDD.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\obj\Debug\MyFirstTDD.pdb
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\StringUtilities.dll
+C:\Users\Reazel\Documents\Proyectos\FizzBuzzTDD\MyFirstTDD\MyFirstTDD\bin\Debug\StringUtilities.pdb
