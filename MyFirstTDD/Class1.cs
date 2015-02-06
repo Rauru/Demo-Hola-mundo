@@ -20,7 +20,7 @@ namespace MyFirstTDD
         {
             sut = new StringUtilties();
             input1 = "Hello";
-            input2 = "Worldddd";
+            input2 = "World";
         };
         private Because of = () =>
         {
